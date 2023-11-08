@@ -4,7 +4,7 @@
 
 ## Inverted Index
 Create inverted index for words and bigrams using a Hadoop job on GCP.
-![alt text](http://url/to/img.png)
+![alt text]([http://url/to/img.png](https://github.com/shubhamhegde/Search-Engine/blob/master/Index/fulloutput.png)https://github.com/shubhamhegde/Search-Engine/blob/master/Index/fulloutput.png)
 
 ## Search Engine
 
